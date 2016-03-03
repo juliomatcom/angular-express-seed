@@ -1,0 +1,22 @@
+{
+  "name": "MyApp",
+  "authors": [
+    "author"
+  ],
+  "description": "An angular and express seed with NPM & Bower",
+  "main": "home.html",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1.5.0"
+  }
+}
