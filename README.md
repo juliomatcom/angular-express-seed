@@ -1,5 +1,5 @@
 # angular-express-seed
-An angular and express seed with NPM &amp; Bower **pre-configured** for easy start write in local env.
+An angular and express seed with NPM &amp; Bower **pre-configured** for easy start playing in your local env.
 ___
 ### Steps
 - Clone this repo to your local
